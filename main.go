@@ -1,8 +1,8 @@
 package main
 
-import "github.com/mysticCoder100/go-dsa/elementary"
+import "github.com/mysticCoder100/go-dsa/elementary/list"
 
 func main() {
-	//elementary.RunStack()
-	elementary.RunQueue()
+	//list.RunList()
+	list.RunCList()
 }
