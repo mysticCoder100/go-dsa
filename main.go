@@ -3,11 +3,12 @@ package main
 import (
 	f "fmt"
 
-	dynamicprogramming "github.com/mysticCoder100/go-dsa/elementary/dynamic-programming"
+	"github.com/mysticCoder100/go-dsa/elementary/list"
 )
 
 func main() {
-	dynamicprogramming.DpTest()
+	//dynamicprogramming.DpTest()
+	list.Run()
 }
 
 func anagram(s string) []string {
