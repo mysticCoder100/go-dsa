@@ -3,12 +3,12 @@ package main
 import (
 	f "fmt"
 
-	"github.com/mysticCoder100/go-dsa/elementary/list"
+	"github.com/mysticCoder100/go-dsa/elementary/tree"
 )
 
 func main() {
 	//dynamicprogramming.DpTest()
-	list.Run()
+	tree.RunBst()
 }
 
 func anagram(s string) []string {
