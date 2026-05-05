@@ -8,7 +8,7 @@ import (
 
 func main() {
 	//dynamicprogramming.DpTest()
-	tree.RunBst()
+	tree.RunHeap()
 }
 
 func anagram(s string) []string {
