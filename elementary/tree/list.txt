@@ -1,0 +1,10 @@
+Alice: Bob, Jude, Dave
+Bob: Alice, Mic, Elena
+Mic: Bob, Jude, Frank
+Jude: Alice, Mic, Grace
+Dave: Alice, Elena, Ivan
+Elena: Bob, Dave, Heidi
+Frank: Mic, Grace, Ivan
+Grace: Jude, Frank, Heidi
+Heidi: Elena, Grace, Jude
+Ivan: Dave, Frank
